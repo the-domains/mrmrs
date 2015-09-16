@@ -5,8 +5,15 @@
         <description><![CDATA[mrmrs]]></description>
         <link>https://thegrid.ai/mrmrs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 08:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 09:04:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrmrs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BLUE</p>]]></description>
+            <link>https://thegrid.ai/mrmrs/blue/index.html</link>
+            <guid isPermaLink="false">3e81170d-3c7b-42d9-9f91-d6d759936e39</guid>
+            <pubDate>Wed, 16 Sep 2015 09:04:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design Details - 56: Lego Bits (feat. Adam Morse) - Spec]]></title>
             <description><![CDATA[<article><h1>Design Details - 56: Lego Bits (feat. Adam Morse) - Spec</h1><p>Home / Podcasts / Design Details / 56: Lego Bits (feat. Adam Morse)</p><img src="https://simplecast-media.s3.amazonaws.com/podcast/image/1034/small_1440374100-artwork.jpg"></article>]]></description>
