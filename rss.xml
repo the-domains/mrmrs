@@ -5,8 +5,15 @@
         <description><![CDATA[mrmrs]]></description>
         <link>https://thegrid.ai/mrmrs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 09:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 09:05:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrmrs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CSSConf Oakland 2014 | Adam Morse: Things I've Learned About CSS]]></title>
+            <description><![CDATA[<article><h1>CSSConf Oakland 2014 | Adam Morse: Things I've Learned About CSS</h1><p>ADAM MORSE Adam Morse is a designer trying to make the web a nicer place for users. http://mrmrs.cc/ https://twitter.com/mrmrs_</p><img src="https://i.ytimg.com/vi/14N_V56tqd4/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=14N_V56tqd4</link>
+            <guid isPermaLink="false">9a32df56-319c-46ec-8a05-fc37824c5034</guid>
+            <pubDate>Wed, 16 Sep 2015 09:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vim: A Design Tool]]></title>
             <description><![CDATA[<article><h1>Vim: A Design Tool</h1><p>In this episode, Charles talks to two other designers about how they've used Vim in their workflow. Klare Frank (a designer from Treehouse) and Adam Morse (a designer from Blue Bottle), join Charles and talk about how they use Vim everyday.</p><img src="https://viewsourc.es/assets/dist/img/vwsrc-art.png"></article>]]></description>
