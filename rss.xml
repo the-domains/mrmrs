@@ -5,8 +5,15 @@
         <description><![CDATA[mrmrs]]></description>
         <link>https://thegrid.ai/mrmrs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 09:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 09:05:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrmrs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vim: A Design Tool]]></title>
+            <description><![CDATA[<article><h1>Vim: A Design Tool</h1><p>In this episode, Charles talks to two other designers about how they've used Vim in their workflow. Klare Frank (a designer from Treehouse) and Adam Morse (a designer from Blue Bottle), join Charles and talk about how they use Vim everyday.</p><img src="https://viewsourc.es/assets/dist/img/vwsrc-art.png"></article>]]></description>
+            <link>https://viewsourc.es/2015/06/04/episode-7-vim/</link>
+            <guid isPermaLink="false">4ccf43d8-f8ab-4258-a0db-9f4521e34457</guid>
+            <pubDate>Wed, 16 Sep 2015 09:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BLUE</p>]]></description>
