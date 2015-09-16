@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[mrmrs]]></title>
         <description><![CDATA[mrmrs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrmrs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 08:58:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Sep 2015 08:58:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrmrs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design Details - 56: Lego Bits (feat. Adam Morse) - Spec]]></title>
+            <description><![CDATA[<article><h1>Design Details - 56: Lego Bits (feat. Adam Morse) - Spec</h1><p>Home / Podcasts / Design Details / 56: Lego Bits (feat. Adam Morse)</p><img src="https://simplecast-media.s3.amazonaws.com/podcast/image/1034/small_1440374100-artwork.jpg"></article>]]></description>
+            <link>http://spec.fm/podcasts/design-details/16190</link>
+            <guid isPermaLink="false">226bef8c-b885-44f5-a1ec-69ad17a6309f</guid>
+            <pubDate>Wed, 16 Sep 2015 08:58:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TACHYONS - Form follows function]]></title>
             <description><![CDATA[<article><h1>TACHYONS - Form follows function</h1><p>Your website should work regardless of a users device or screensize. Don't break the functionality of HTML with CSS. Just because it's readable to you on your laptop, doesn't mean it is readable by your users on their device. Make sure your type is big. Make sure your contrast is high.</p></article>]]></description>
